@@ -22,5 +22,4 @@ weight = 3
 
 +++
 
-We can type a landing note here to give a brief overview of the lab :herb: We can also have this as a carousel which cycles through a few different landing headers.
-
+We are the students (current and recent past) involved with the grasslands lab :herb:

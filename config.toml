@@ -241,8 +241,8 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "Home"
-  url = "#about"
+  name = "Lab"
+  url = "https://ukzn-sls-grasslandslab.netlify.com/"
   weight = 1
 
 [[menu.main]]
