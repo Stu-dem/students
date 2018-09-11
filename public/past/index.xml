@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pasts on UKZN Grasslands lab students</title>
+    <link>/past/</link>
+    <description>Recent content in Pasts on UKZN Grasslands lab students</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/past/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Abongile</title>
+      <link>/past/abongile/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/past/abongile/</guid>
+      <description>About me You can briefly describe your intrests and background here. If you can send me a cover photo and caption too that would be great. That will then go across the top of the screen.
+Current project overview Soil nutrient and water content are important bottom-up factors that affect plant quality and subsequent trophic interactions. In insects, host plant quality has been associated with differences in oviposition preferences and herbivore performance.</description>
+    </item>
+    
+    <item>
+      <title>Lindo</title>
+      <link>/past/lindo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/past/lindo/</guid>
+      <description>About me You can briefly describe your intrests and background here. If you can send me a cover photo and caption too that would be great. That will then go across the top of the screen.
+Current project overview Exotic grasses have proven problematic in natural veld, reducing biodiversity and productivity. Vetiver (Chrysopogon zizanioides) is a fast-growing, tall exotic grass (from India) with deep roots (approximately 3m) allowing it to withstand extreme environmental conditions such as drought, frost, and flood.</description>
+    </item>
+    
+  </channel>
+</rss>

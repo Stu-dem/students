@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Currents on UKZN Grasslands lab students</title>
+    <link>/current/</link>
+    <description>Recent content in Currents on UKZN Grasslands lab students</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/current/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stuart</title>
+      <link>/current/stuart/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/current/stuart/</guid>
+      <description>About me My name is Stuart and I am a Masters student here at the UKZN Grasslands Lab. I come from Waterfall, KZN. I attended both Hillcrest Primary School and Hillcrest High School and was a scout at 1st Hillcrest Scout Group. My time there together with input from my grandparents and my teachers encouraged me to pursue a career in agriculture. But this quickly shifted to ecology after being exposed to the work that goes on in this lab.</description>
+    </item>
+    
+    <item>
+      <title>Thembeka</title>
+      <link>/current/thembeka/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/current/thembeka/</guid>
+      <description>About me You can briefly describe your intrests and background here. If you can send me a cover photo and caption too that would be great. That will then go across the top of the screen.
+Current project overview Exotic grasses have proven problematic in natural veld, reducing biodiversity and productivity. Vetiver (Chrysopogon zizanioides) is a fast-growing, tall exotic grass (from India) with deep roots (approximately 3m) allowing it to withstand extreme environmental conditions such as drought, frost, and flood.</description>
+    </item>
+    
+  </channel>
+</rss>

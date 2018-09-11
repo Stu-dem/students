@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ecosystem stability on UKZN Grasslands lab students</title>
+    <link>/tags/ecosystem-stability/</link>
+    <description>Recent content in Ecosystem stability on UKZN Grasslands lab students</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/ecosystem-stability/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stuart</title>
+      <link>/current/stuart/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/current/stuart/</guid>
+      <description>About me My name is Stuart and I am a Masters student here at the UKZN Grasslands Lab. I come from Waterfall, KZN. I attended both Hillcrest Primary School and Hillcrest High School and was a scout at 1st Hillcrest Scout Group. My time there together with input from my grandparents and my teachers encouraged me to pursue a career in agriculture. But this quickly shifted to ecology after being exposed to the work that goes on in this lab.</description>
+    </item>
+    
+  </channel>
+</rss>
